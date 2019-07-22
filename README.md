@@ -1,5 +1,5 @@
-Course website for EMSE 6574: Programming for Analytics
+Course website for EMSE course Exploratory Data Analysis
 
-[Home Page](https://emse6574-gwu.github.io)
+[Home Page](https://emse-eda-gwu.github.io)
 
-[Current Section](https://emse6574.netlify.com/)
+[Current Section](https://emse-eda-gwu.github.io/2020-Spring)
