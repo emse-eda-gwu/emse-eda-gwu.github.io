@@ -1,4 +1,4 @@
-name: "EMSE: Exploratory Data Analysis"
+name: "Exploratory Data Analysis"
 output_dir: "."
 navbar:
   type: inverse

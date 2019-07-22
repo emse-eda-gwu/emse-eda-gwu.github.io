@@ -1,9 +1,9 @@
 ---
-title: "EMSE 6574: Programming for Analytics"
+title: "Exploratory Data Analysis"
 output:
   html_document:
     toc: false
 ---
 
 ## Current Section: 
-- [Fall 2019](https://emse6574.netlify.com)
+- [Spring 2020](https://emse-eda-gwu.github.io/2020-Spring)
