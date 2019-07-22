@@ -1,0 +1,10 @@
+name: "EMSE: Exploratory Data Analysis"
+output_dir: "."
+navbar:
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
