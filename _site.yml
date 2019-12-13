@@ -1,10 +1,11 @@
-name: "Exploratory Data Analysis"
+name: "EMSE Undergraduate Exploratory Data Analysis"
 output_dir: "."
-navbar:
-  type: inverse
-  left:
-    - text: "Home"
-      href: index.html
 output:
   html_document:
+    lib_dir: site_libs
+    self_contained: no
+    include:
+      in_header:
+      - _includes/header.html
+      after_body: _includes/footer.html
     theme: cosmo
