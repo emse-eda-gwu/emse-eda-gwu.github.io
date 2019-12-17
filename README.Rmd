@@ -2,5 +2,10 @@
 title: "Exploratory Data Analysis"
 ---
 
+```{r, echo=FALSE, message=FALSE}
+library(fontawesome)
+```
+
 ```{r child = '_description.Rmd'}
 ```
+

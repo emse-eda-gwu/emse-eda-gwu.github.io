@@ -1,7 +1,17 @@
 ---
-title: "Exploratory Data Analysis"
 output: html_document
 ---
+
+```{r, echo=FALSE, message=FALSE}
+library(fontawesome)
+```
+
+<table>
+    <tr>
+        <td><br><img src="https://emse-eda-gwu.github.io/images/eda_hex_sticker.png" width="120"></td>
+        <td><h1>&ensp;Exploratory Data Analysis</h1></td>
+    </tr>
+</table>
 
 ```{r child = '_description.Rmd'}
 ```
