@@ -23,7 +23,7 @@ a:hover {
 
 <div class = "col-md-3">
 <br>
-<img src="https://emse-eda-gwu.github.io/images/eda_hex_sticker.png" width="200">
+<img src="images/eda_hex_sticker.png" width="200">
 </div>
 
 <div class = "col-md-7">
