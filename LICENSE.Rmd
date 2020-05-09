@@ -14,6 +14,8 @@ by [John Helveston](https://www.jhelvy.com).
 In addition to my own developed material, I have also modified material from
 other courses, workshops, and textbooks. Below are a list of resources I have used.
 
+<br>
+
 ### Courses / workshops
 
 Name | Author(s) | Links
@@ -22,6 +24,8 @@ STAT 545 | U. of British Columbia | [course](http://stat545.com/); [GitHub](http
 Patrick Meyer's Youtube lectures | Prof. Patrick Meyer | [playlists](https://www.youtube.com/channel/UCyTTRlOdjHg23q3l6_CD4gg/playlists)
 Andrew Heiss's data viz courses | Andrew Heiss | [MPA 635](https://datavizf17.classes.andrewheiss.com/), [more here](https://www.andrewheiss.com/teaching/)
 Intro. to Data Visualization, Fall 2018 | Peter Aldhous | [course site](https://paldhous.github.io/ucb/2018/dataviz/index.html)
+
+<br>
 
 ### Books
 

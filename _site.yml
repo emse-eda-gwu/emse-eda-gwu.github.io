@@ -1,5 +1,5 @@
 name: "Exploratory Data Analysis"
-output_dir: _site
+output_dir: "."
 exclude:
 - README
 new_session: true
