@@ -17,5 +17,5 @@ Select to view the course site for a particular semester:
 
 Select to view the showcase of student projects from a previous semester:
 
-- [Spring 2020](http://eda.seas.gwu.edu/showcase.html)
+- [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
 
