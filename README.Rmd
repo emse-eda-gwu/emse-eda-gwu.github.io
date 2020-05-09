@@ -1,6 +1,0 @@
----
-title: "Exploratory Data Analysis"
----
-
-```{r child = '_content.Rmd'}
-```

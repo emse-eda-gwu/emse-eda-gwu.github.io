@@ -1,0 +1,94 @@
+---
+title: "Final Project Showcase"
+output:
+  html_document:
+    number_sections: false
+    toc: false
+---
+
+<br>
+
+# Spring 2020
+
+<br>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/covid_pandemic.gif">
+</div><div class = "col-md-7">
+## [World War...against COVID-19](showcase/2020-Spring/covid_pandemic.html){target="_blank"}
+by Javier Langarica
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/diversity_in_us_military.png">
+</div><div class = "col-md-7">
+## [An Exploration of Diversity & Inclusion in the U.S. Military](showcase/2020-Spring/diversity_in_us_military.html){target="_blank"}
+by William Stricklett<br>
+[<i class="fas fa-video"></i>](https://youtu.be/2g75nCwCwQw){target="_blank"}
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/expectations_in_air.png">
+</div><div class = "col-md-7">
+## [Expectations in Air](showcase/2020-Spring/expectations_in_air.html){target="_blank"}
+by Bruna Janikian, Olivia O’Hearn, & Yumna Dahab<br>
+[<i class="fas fa-video"></i>](https://youtu.be/a9iGzrSEdf4){target="_blank"}
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/fema_disaster_relief.png">
+</div><div class = "col-md-7">
+## [FEMA Disaster Relief](showcase/2020-Spring/fema_disaster_relief.html){target="_blank"}
+by Derek Ripp, Blake Ripp, & Bugra Kardas
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/gender_representation_in_film.png">
+</div><div class = "col-md-7">
+## [Gender Representation in the Film Industry](showcase/2020-Spring/gender_representation_in_film.html){target="_blank"}
+by Sarah Cassway, Alexa Solomon, & Caroline Walton
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/global_oil_markets.png">
+</div><div class = "col-md-7">
+## [OPEC vs US: Who controls the narrative of global petroleum market](showcase/2020-Spring/global_oil_markets.html){target="_blank"}
+by Azamat Kulzhanov, Diing Manyang, & Alp Can
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/home_mortages.png">
+</div><div class = "col-md-7">
+## [Analysis of Home Mortgage Disclosure Act Data](showcase/2020-Spring/home_mortages.html){target="_blank"}
+by Alyssa Cristobal
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/mlb_attendance.png">
+</div><div class = "col-md-7">
+## [Game Attendance in Major League Baseball](showcase/2020-Spring/mlb_attendance.html){target="_blank"}
+by Saramarie Puzzanghera
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/us_electricity_generation_mix.png">
+</div><div class = "col-md-7">
+## [An Investigation on the Change in Electricity Generation Mix in the US over Time](showcase/2020-Spring/us_electricity_generation_mix.html){target="_blank"}
+by William Stein<br>
+[<i class="fas fa-video"></i>](https://youtu.be/L5NOlVQx4A4){target="_blank"}</p>
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/virginia_presidential_voting.png">
+</div><div class = "col-md-7">
+## [Votings Trends in the 2016 Virginia Presidential Election](showcase/2020-Spring/virginia_presidential_voting.html){target="_blank"}
+by Jennifer J. Kim
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2020-Spring/thumbnails/world_happiness.png">
+</div><div class = "col-md-7">
+## [World Happiness Analysis](showcase/2020-Spring/world_happiness.html){target="_blank"}
+by Allison Forsyth, Beth Ellinport, & Emily Aprigliano<br>
+[<i class="fas fa-video"></i>](https://youtu.be/0RNGeT_Qs9w){target="_blank"}</p>
+</div></div>
