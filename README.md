@@ -1,4 +1,8 @@
-# Exploratory Data Analysis
+## EMSE 4197: Exploratory Data Analysis
+
+![Render & Deploy Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Description
 
@@ -19,3 +23,6 @@ Select to view the showcase of student projects from a previous semester:
 
 - [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
 
+### Acknowledgments
+
+This course was inspired by many other courses / resources that cover similar material - see the course [about page](http://eda.seas.gwu.edu/about.html) for more details.
