@@ -1,0 +1,47 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  results = "asis",
+  echo = FALSE,
+  comment = "#>",
+  out.width = "100%"
+)
+IS_README <- TRUE
+```
+
+## EMSE 4197: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
+
+<!-- badges: start -->
+![Render & Deploy Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- badges: end -->
+
+### Description
+
+```{r child = '_description.Rmd'}
+```
+
+### Select Section
+
+Select to view the course site for a particular semester:
+
+- [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
+
+### Student Project Showcase
+
+Select to view the showcase of student projects from a previous semester:
+
+- [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
+
+### Acknowledgments
+
+This course was inspired by many other courses / resources that cover similar material - see the course [about page](http://eda.seas.gwu.edu/about.html) for more details.

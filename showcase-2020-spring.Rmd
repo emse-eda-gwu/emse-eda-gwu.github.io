@@ -8,10 +8,6 @@ output:
 
 <br>
 
-# Spring 2020
-
-<br>
-
 <div class = "row"><div class = "col-md-5">
 <img src="showcase/2020-Spring/thumbnails/covid_pandemic.gif">
 </div><div class = "col-md-7">

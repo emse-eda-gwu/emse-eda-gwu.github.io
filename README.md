@@ -1,28 +1,48 @@
-## EMSE 4197: Exploratory Data Analysis
 
-![Render & Deploy Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+## EMSE 4197: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
+
+<!-- badges: start -->
+
+![Render & Deploy
+Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg)
+[![License: CC
+BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- badges: end -->
 
 ### Description
 
-This is the course website for the [EMSE](https://www.emse.seas.gwu.edu/) undergraduate course "Programming for Analytics" at the [George Washington University](https://www.gwu.edu/). This is the second part of a two-course sequence designed to provide a foundation in programming for data analytics using the [R programming language](https://www.r-project.org/):
+This is the course website for the
+[EMSE](https://www.emse.seas.gwu.edu/) undergraduate course “Programming
+for Analytics” at the [George Washington
+University](https://www.gwu.edu/). This is the second part of a
+two-course sequence designed to provide a foundation in programming for
+data analytics using the [R programming
+language](https://www.r-project.org/):
 
-- Course 1 (Fall): [Programming for Analytics](http://p4a.seas.gwu.edu/)
-- Course 2 (Spring): [Exploratory Data Analysis](http://eda.seas.gwu.edu/)
+  - Course 1 (Fall): [Programming for
+    Analytics](http://p4a.seas.gwu.edu/)
+  - Course 2 (Spring): [Exploratory Data
+    Analysis](http://eda.seas.gwu.edu/)
 
 ### Select Section
 
 Select to view the course site for a particular semester:
 
-- [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
+  - [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
 
 ### Student Project Showcase
 
-Select to view the showcase of student projects from a previous semester:
+Select to view the showcase of student projects from a previous
+semester:
 
-- [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
+  - [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
 
 ### Acknowledgments
 
-This course was inspired by many other courses / resources that cover similar material - see the course [about page](http://eda.seas.gwu.edu/about.html) for more details.
+This course was inspired by many other courses / resources that cover
+similar material - see the course [about
+page](http://eda.seas.gwu.edu/about.html) for more details.
