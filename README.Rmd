@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 IS_README <- TRUE
 ```
 
-## EMSE 4197: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
+## EMSE 4575: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
 
 <!-- badges: start -->
 ![Render & Deploy Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg?branch=master&event=deployment_status)
