@@ -1,12 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 4197: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
+## EMSE 4575: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
 
 <!-- badges: start -->
 
 ![Render & Deploy
-Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg)
+Site](https://github.com/emse-eda-gwu/emse-eda-gwu.github.io/workflows/Render%20&%20Deploy%20Site/badge.svg?branch=master&event=deployment_status)
 [![License: CC
 BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License:
