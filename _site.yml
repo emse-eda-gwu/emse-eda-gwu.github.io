@@ -23,7 +23,7 @@ navbar:
           href: showcase-2020-spring.html
 
   right:
-  - icon: fa fa-bars
+  - icon: fas fa-bars
     menu:
     - text: About
       icon: fas fa-info-circle
@@ -37,7 +37,7 @@ navbar:
     - text: Source files
       icon: fab fa-github
       href: https://github.com/emse-eda-gwu/
-      
+
 output:
   html_document:
     toc: yes
