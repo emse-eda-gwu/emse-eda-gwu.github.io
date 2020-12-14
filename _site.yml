@@ -4,15 +4,20 @@ exclude:
 - README
 new_session: true
 navbar:
-  title: "Home"
+  title: ""
   left:
+    - text: ""
+      icon: fas fa-home
+      href: index.html
     - text: "Select Section"
+      icon: fas fa-puzzle-piece
       menu:
         - text: "Spring 2020"
           href: http://eda.seas.gwu.edu/2020-Spring/
         - text: "Spring 2021"
           href: http://eda.seas.gwu.edu/2021-Spring/
     - text: "Project Showcase"
+      icon: fas fa-chart-bar
       menu:
         - text: "Spring 2020"
           href: showcase-2020-spring.html
@@ -21,16 +26,16 @@ navbar:
   - icon: fa fa-bars
     menu:
     - text: About
-      icon: fa fa-info-circle
+      icon: fas fa-info-circle
       href: about.html
     - text: License
-      icon: fa fa-gavel
+      icon: fas fa-gavel
       href: LICENSE.html
     - text: Contact
-      icon: fa fa-envelope
+      icon: fas fa-envelope
       href: mailto:jph@gwu.edu
     - text: Source files
-      icon: fa fa-github
+      icon: fab fa-github
       href: https://github.com/emse-eda-gwu/
       
 output:

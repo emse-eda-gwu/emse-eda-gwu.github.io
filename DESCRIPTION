@@ -24,4 +24,4 @@ Imports:
     fontawesome
 Remotes:
     rstudio/fontawesome,
-    jhelvy/rmarkdown
+    rstudio/rmarkdown
