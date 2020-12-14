@@ -1,14 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 4575: Exploratory Data Analysis <img src="images/eda_hex_sticker.png" align="right" width="200"/>
+## EMSE 4575: Exploratory Data Analysis <a href='https://github.com/emse-eda-gwu/'><img src='images/eda_hex_sticker.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
-[![License: CC
-BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 <!-- badges: end -->
 
 ### Description
@@ -30,7 +28,7 @@ language](https://www.r-project.org/):
 
 Select to view the course site for a particular semester:
 
-  - [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
+  - [Spring 2021](http://eda.seas.gwu.edu/2021-Spring/)
 
 ### Student Project Showcase
 
