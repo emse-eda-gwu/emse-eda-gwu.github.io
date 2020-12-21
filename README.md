@@ -19,7 +19,7 @@ two-course sequence designed to provide a foundation in programming for
 data analytics using the [R programming
 language](https://www.r-project.org/):
 
-  - Course 1 (Fall): [Programming for
+  - Course 1 (Fall): [Intro to Programming for
     Analytics](http://p4a.seas.gwu.edu/)
   - Course 2 (Spring): [Exploratory Data
     Analysis](http://eda.seas.gwu.edu/)
@@ -28,6 +28,7 @@ language](https://www.r-project.org/):
 
 Select to view the course site for a particular semester:
 
+  - [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
   - [Spring 2021](http://eda.seas.gwu.edu/2021-Spring/)
 
 ### Student Project Showcase

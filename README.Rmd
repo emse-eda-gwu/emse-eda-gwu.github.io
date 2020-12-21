@@ -12,7 +12,6 @@ knitr::opts_chunk$set(
   warning    = FALSE,
   message    = FALSE,
   comment    = "#>",
-  fig.path   = "man/figures/",
   fig.retina = 3
 )
 ```
@@ -32,6 +31,7 @@ knitr::opts_chunk$set(
 
 Select to view the course site for a particular semester:
 
+- [Spring 2020](http://eda.seas.gwu.edu/2020-Spring/)
 - [Spring 2021](http://eda.seas.gwu.edu/2021-Spring/)
 
 ### Student Project Showcase

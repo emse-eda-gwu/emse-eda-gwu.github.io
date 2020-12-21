@@ -10,14 +10,12 @@ navbar:
       icon: fas fa-home
       href: index.html
     - text: "Select Section"
-      icon: fas fa-puzzle-piece
       menu:
         - text: "Spring 2020"
           href: http://eda.seas.gwu.edu/2020-Spring/
         - text: "Spring 2021"
           href: http://eda.seas.gwu.edu/2021-Spring/
     - text: "Project Showcase"
-      icon: fas fa-chart-bar
       menu:
         - text: "Spring 2020"
           href: showcase-2020-spring.html
