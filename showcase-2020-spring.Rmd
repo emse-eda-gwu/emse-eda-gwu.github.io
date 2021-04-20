@@ -6,6 +6,27 @@ output:
     toc: false
 ---
 
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    'Showcase for Spring 2020 semester of EMSE course "Exploratory Data Analsis" at GWU'
+  ) %>%
+  meta_name("github-repo" = "emse-eda-gwu/emse-eda-gwu.github.io") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "eda.seas.gwu.edu",
+    url = "https://eda.seas.gwu.edu/",
+    image = "https://eda.seas.gwu.edu/images/eda_hex_sticker.png",
+    image_alt = "Hex sticker for class logo showing Anscombe's quartet",
+    og_type = "website",
+    og_author = c("John Paul Helveston"),
+    twitter_card_type = "summary",
+    twitter_creator = "@JohnHelveston"
+  )
+```
+
 <br>
 
 <div class = "row"><div class = "col-md-5">
