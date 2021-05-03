@@ -13,11 +13,11 @@ meta() %>%
   meta_description(
     'Showcase for Spring 2020 semester of EMSE course "Exploratory Data Analsis" at GWU'
   ) %>%
-  meta_name("github-repo" = "emse-eda-gwu/emse-eda-gwu.github.io") %>%
+  meta_name("github-repo" = "emse-eda-gwu/2020-Spring") %>%
   meta_viewport() %>%
   meta_social(
     title = "eda.seas.gwu.edu",
-    url = "https://eda.seas.gwu.edu/",
+    url = "https://eda.seas.gwu.edu/2020-Spring",
     image = "https://eda.seas.gwu.edu/images/eda_hex_sticker.png",
     image_alt = "Hex sticker for class logo showing Anscombe's quartet",
     og_type = "website",

@@ -19,7 +19,9 @@ navbar:
       menu:
         - text: "Spring 2020"
           href: showcase-2020-spring.html
-
+        - text: "Spring 2021"
+          href: showcase-2021-spring.html
+          
   right:
   - icon: fas fa-bars
     menu:
