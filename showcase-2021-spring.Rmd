@@ -34,7 +34,8 @@ meta() %>%
 </div><div class = "col-md-7">
 ## [Would you get into an autonomous vehicle?](showcase/2021-Spring/av_future.html){target="_blank"}
 by Leah Kaplan<br>
-[<i class="fas fa-video"></i>](https://vimeo.com/544759088){target="_blank"}
+[<i class="fas fa-video"></i>](https://vimeo.com/544759088){target="_blank"}<br>
+🗑️ **Janitor Award** winner for messiest data cleaning 🎉
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
@@ -66,7 +67,8 @@ by Izzy Doran, Omar Alkhadra, and Alejandro Medina<br>
 </div><div class = "col-md-7">
 ## [Genders in the Workforce](showcase/2021-Spring/gender_pay_gap.html){target="_blank"}
 by Alexa Rosdahl, Katie Fagan, and Gabriel Bahia De Sousa<br>
-[<i class="fas fa-video"></i>](https://youtu.be/EYlvVw14ovA){target="_blank"}
+[<i class="fas fa-video"></i>](https://youtu.be/EYlvVw14ovA){target="_blank"}<br>
+✨ **Shiny Award** winner for best individual data viz 🎉
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
