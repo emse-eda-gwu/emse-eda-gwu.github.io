@@ -11,7 +11,7 @@ library(metathis)
 
 meta() %>%
   meta_description(
-    'Course website for the EMSE course "Exploratory Data Analsis" at GWU'
+    'Course website for the course "EMSE 4572: Exploratory Data Analsis" at GWU'
   ) %>%
   meta_name("github-repo" = "emse-eda-gwu/emse-eda-gwu.github.io") %>%
   meta_viewport() %>%
