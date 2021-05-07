@@ -100,5 +100,6 @@ by Ebunoluwa Akinbode, Kyara McDowell, and Kareemot Siyanbola<br>
 </div><div class = "col-md-7">
 ## [Poverty and its Implications on Energy Use and  Carbon Emissions](showcase/2021-Spring/poverty_emissions.html){target="_blank"}
 by Kazi Asifa Ashrafi, Michael O’Keefe, and Eliese Ottinger<br>
+[<i class="fas fa-video"></i>](https://filedn.com/lYURdAnVcCykBHec07i0c6j/videos/emse_4575_s21_poverty_energy.mp4){target="_blank"}
 </div></div>
 
