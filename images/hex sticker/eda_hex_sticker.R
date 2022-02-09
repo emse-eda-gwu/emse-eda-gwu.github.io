@@ -16,6 +16,7 @@ anscombePlot <- ansDf %>%
     theme(
         axis.ticks = element_blank(),
         axis.ticks.length = unit(0, "cm"),
+        panel.grid.major = element_line(size = 0.3, colour = "grey90"),
         axis.text = element_blank(),
         axis.title = element_blank(),
         strip.background = element_blank(),
@@ -24,5 +25,4 @@ anscombePlot <- ansDf %>%
         plot.margin = margin(0, 0, 0, 0, "cm")) + 
     panel_border(color = 'black', size = 1) 
 
-ggsave(here::here('images', 'hex_sticker', 'anscombePlot.pdf'),
-       anscombePlot, width = 4, height = 2.5)
+ggsave('anscombePlot.png', anscombePlot, width = 4, height = 2.5)
