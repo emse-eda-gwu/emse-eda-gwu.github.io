@@ -27,10 +27,10 @@ language](https://www.r-project.org/):
 
 Select to view the course site for a particular semester:
 
--   [Spring 2020 (listed as
-    EMSE 4197)](http://eda.seas.gwu.edu/2020-Spring/)
--   [Spring 2021 (listed as
-    EMSE 4575)](http://eda.seas.gwu.edu/2021-Spring/)
+-   [Spring 2020 (listed as EMSE
+    4197)](http://eda.seas.gwu.edu/2020-Spring/)
+-   [Spring 2021 (listed as EMSE
+    4575)](http://eda.seas.gwu.edu/2021-Spring/)
 -   [Fall 2022](http://eda.seas.gwu.edu/2022-Fall/)
 
 ### Student Project Showcase
