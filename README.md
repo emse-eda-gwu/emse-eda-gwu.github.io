@@ -18,28 +18,28 @@ two-course sequence designed to provide a foundation in programming for
 data analytics using the [R programming
 language](https://www.r-project.org/):
 
--   Course 1: [EMSE 4571: Intro to Programming for
-    Analytics](http://p4a.seas.gwu.edu/)
--   Course 2: [EMSE 4572: Exploratory Data
-    Analysis](http://eda.seas.gwu.edu/)
+- Course 1: [EMSE 4571: Intro to Programming for
+  Analytics](http://p4a.seas.gwu.edu/)
+- Course 2: [EMSE 4572: Exploratory Data
+  Analysis](http://eda.seas.gwu.edu/)
 
 ### Select Section
 
 Select to view the course site for a particular semester:
 
--   [Spring 2020 (listed as EMSE
-    4197)](http://eda.seas.gwu.edu/2020-Spring/)
--   [Spring 2021 (listed as EMSE
-    4575)](http://eda.seas.gwu.edu/2021-Spring/)
--   [Fall 2022](http://eda.seas.gwu.edu/2022-Fall/)
+- [Spring 2020 (listed as EMSE
+  4197)](http://eda.seas.gwu.edu/2020-Spring/)
+- [Spring 2021 (listed as EMSE
+  4575)](http://eda.seas.gwu.edu/2021-Spring/)
+- [Fall 2022](http://eda.seas.gwu.edu/2022-Fall/)
 
 ### Student Project Showcase
 
 Select to view the showcase of student projects from a previous
 semester:
 
--   [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
--   [Spring 2021](http://eda.seas.gwu.edu/showcase-2021-spring.html)
+- [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
+- [Spring 2021](http://eda.seas.gwu.edu/showcase-2021-spring.html)
 
 ### Acknowledgments
 
