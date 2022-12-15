@@ -38,7 +38,7 @@ by Abdallah Omari, Majd Shatara, Mansour Alhawwas, and Sebastian Makrides<br>
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
-<img src="showcase/2022-Fall/thumbnails/college-completion-rates.png">
+<img src="showcase/2022-Fall/thumbnails/college-completion-rates.gif">
 </div><div class = "col-md-7">
 ## [College Completion Rates by Race, Gender, and US States](showcase/2022-Fall/college-completion-rates.html){target="_blank"}
 by Ivanna Hidalgo, Natasha Stallings, Lauren Monk, and Kidist Bekele<br>
