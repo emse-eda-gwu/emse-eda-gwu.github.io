@@ -13,7 +13,7 @@
 
 <title>Fall 2022 Project Showcase</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
@@ -212,15 +212,11 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -427,7 +423,8 @@ class="section level2 col-md-7">
 <h2><a href="showcase/2022-Fall/carbon-offsets.html" target="_blank">CO2
 Offset Project Investigation</a></h2>
 <p>by Abdallah Omari, Majd Shatara, Mansour Alhawwas, and Sebastian
-Makrides<br></p>
+Makrides<br> <a href="https://youtu.be/ZXQGxltDoiI"
+target="_blank"><i class="fas fa-video"></i></a></p>
 </div>
 </div>
 <div class="row">
@@ -453,7 +450,10 @@ class="section level2 col-md-7">
 <h2><a href="showcase/2022-Fall/covid19-in-us-states.html"
 target="_blank">Relationship between Covid 19 pandemic and the income
 equality among states</a></h2>
-<p>by Jiyoon Koo, Amaya Walker, and Sahand Salemi<br></p>
+<p>by Jiyoon Koo, Amaya Walker, and Sahand Salemi<br> <a
+href="https://youtu.be/WtpDOLZDHvQ"
+target="_blank"><i class="fas fa-video"></i></a> <br>🗑️ <strong>Janitor
+Award</strong> winner for messiest data cleaning 🎉</p>
 </div>
 </div>
 <div class="row">
@@ -463,7 +463,8 @@ equality among states</a></h2>
 <div id="dc-vehicle-crashes" class="section level2 col-md-7">
 <h2><a href="showcase/2022-Fall/dc-vehicle-crashes.html"
 target="_blank">DC Vehicle Crashes</a></h2>
-<p>by Ben Buechner, Parker Reese, Max Feng, and Vijay Jayamani<br></p>
+<p>by Ben Buechner, Parker Reese, Max Feng, and Vijay Jayamani<br> ✨
+<strong>Shiny Award</strong> winner for best individual data viz 🎉</p>
 </div>
 </div>
 <div class="row">
@@ -474,7 +475,9 @@ target="_blank">DC Vehicle Crashes</a></h2>
 class="section level2 col-md-7">
 <h2><a href="showcase/2022-Fall/drake-vs-beyonce.html"
 target="_blank">Revenue streams for Drake vs. Beyonce</a></h2>
-<p>by Gujri Ahluwalia, Salah Mohammed, and Esha Patel<br></p>
+<p>by Gujri Ahluwalia, Salah Mohammed, and Esha Patel<br> <a
+href="https://youtu.be/cT2rSsLSoFc"
+target="_blank"><i class="fas fa-video"></i></a></p>
 </div>
 </div>
 <div class="row">
@@ -514,7 +517,9 @@ class="section level2 col-md-7">
 <h2><a href="showcase/2022-Fall/premier-league.html"
 target="_blank">Fighting for Gold: Ranking in the Premier
 League</a></h2>
-<p>by Karim Rizk, Ryan Cedeno, Amen Dahab, and Marvin Castillo<br></p>
+<p>by Karim Rizk, Ryan Cedeno, Amen Dahab, and Marvin Castillo<br> <a
+href="https://youtu.be/WtpDOLZDHvQ"
+target="_blank"><i class="fas fa-video"></i></a></p>
 </div>
 </div>
 

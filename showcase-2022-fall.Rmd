@@ -34,6 +34,7 @@ meta() %>%
 </div><div class = "col-md-7">
 ## [CO2 Offset Project Investigation](showcase/2022-Fall/carbon-offsets.html){target="_blank"}
 by Abdallah Omari, Majd Shatara, Mansour Alhawwas, and Sebastian Makrides<br>
+[<i class="fas fa-video"></i>](https://youtu.be/ZXQGxltDoiI){target="_blank"}
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
@@ -48,6 +49,8 @@ by Ivanna Hidalgo, Natasha Stallings, Lauren Monk, and Kidist Bekele<br>
 </div><div class = "col-md-7">
 ## [Relationship between Covid 19 pandemic and the income equality among states](showcase/2022-Fall/covid19-in-us-states.html){target="_blank"}
 by Jiyoon Koo, Amaya Walker, and Sahand Salemi<br>
+[<i class="fas fa-video"></i>](https://youtu.be/WtpDOLZDHvQ){target="_blank"}
+<br>🗑️ **Janitor Award** winner for messiest data cleaning 🎉
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
@@ -55,6 +58,7 @@ by Jiyoon Koo, Amaya Walker, and Sahand Salemi<br>
 </div><div class = "col-md-7">
 ## [DC Vehicle Crashes](showcase/2022-Fall/dc-vehicle-crashes.html){target="_blank"}
 by Ben Buechner, Parker Reese, Max Feng, and Vijay Jayamani<br>
+✨ **Shiny Award** winner for best individual data viz 🎉
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
@@ -62,6 +66,7 @@ by Ben Buechner, Parker Reese, Max Feng, and Vijay Jayamani<br>
 </div><div class = "col-md-7">
 ## [Revenue streams for Drake vs. Beyonce](showcase/2022-Fall/drake-vs-beyonce.html){target="_blank"}
 by Gujri Ahluwalia, Salah Mohammed, and Esha Patel<br>
+[<i class="fas fa-video"></i>](https://youtu.be/cT2rSsLSoFc){target="_blank"}
 </div></div>
 
 <div class = "row"><div class = "col-md-5">
@@ -85,4 +90,5 @@ by Brynna Johnson, Islay Van Dusen, and Claire Foley<br>
 </div><div class = "col-md-7">
 ## [Fighting for Gold: Ranking in the Premier League](showcase/2022-Fall/premier-league.html){target="_blank"}
 by Karim Rizk, Ryan Cedeno, Amen Dahab, and Marvin Castillo<br>
+[<i class="fas fa-video"></i>](https://youtu.be/WtpDOLZDHvQ){target="_blank"}
 </div></div>
