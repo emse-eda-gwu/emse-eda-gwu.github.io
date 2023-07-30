@@ -14,14 +14,7 @@ Depends: R (>= 3.6.0)
 License: CC-BY-SA
 Encoding: UTF-8
 Imports:
-    rmarkdown,
     knitr,
     yaml,
     tidyverse,
-    devtools,
-    roxygen2,
-    here,
-    fontawesome
-Remotes:
-    rstudio/fontawesome,
-    rstudio/rmarkdown
+    here
