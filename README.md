@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 4572: Exploratory Data Analysis <a href='https://github.com/emse-eda-gwu/'><img src='images/eda_hex_sticker.png' align="right" height="139"/></a>
+## EMSE 4572 / 6572: Exploratory Data Analysis <a href='https://github.com/emse-eda-gwu/'><img src='images/eda_hex_sticker.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -12,7 +12,7 @@
 ### Description
 
 This is the course website for “[EMSE](https://www.emse.seas.gwu.edu/)
-4572: Exploratory Data Analysis” at the [George Washington
+4572 / 6572: Exploratory Data Analysis” at the [George Washington
 University](https://www.gwu.edu/). This is the second part of a
 two-course sequence designed to provide a foundation in programming for
 data analytics using the [R programming
@@ -32,14 +32,16 @@ Select to view the course site for a particular semester:
 - [Spring 2021 (listed as EMSE
   4575)](http://eda.seas.gwu.edu/2021-Spring/)
 - [Fall 2022](http://eda.seas.gwu.edu/2022-Fall/)
+- [Fall 2023](http://eda.seas.gwu.edu/2023-Fall/)
 
 ### Student Project Showcase
 
 Select to view the showcase of student projects from a previous
 semester:
 
-- [Spring 2020](http://eda.seas.gwu.edu/showcase-2020-spring.html)
-- [Spring 2021](http://eda.seas.gwu.edu/showcase-2021-spring.html)
+- [Spring 2020](http://eda.seas.gwu.edu/showcase/2020-spring.html)
+- [Spring 2021](http://eda.seas.gwu.edu/showcase/2021-spring.html)
+- [Fall 2022](http://eda.seas.gwu.edu/showcase/2022-fall.html)
 
 ### Acknowledgments
 
