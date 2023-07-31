@@ -27,7 +27,8 @@ get_showcase_df <- function(semester) {
             video = ifelse(is.na(video), '', glue(
                 '<br><a href="{video}" target="_blank"><i class="bi-camera-video-fill"></i></a>'
             )),
-            body = paste0(title, video)
+            award = ifelse(is.na(award), '', paste0('<br>', award)),
+            body = paste0(title, video, award)
         )
     return(df)
 }
