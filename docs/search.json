@@ -198,8 +198,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2023",
+    "title": "EMSE 4572 / 6572: Exploratory Data Analysis",
     "section": "",
-    "text": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2023\n\n\n\n\n\nThis is the course website for “EMSE 4572 / 6572: Exploratory Data Analysis” at the George Washington University. This is the second part of a two-course sequence designed to provide a foundation in programming for data analytics using the R programming language:\n\nCourse 1: EMSE 4571: Intro to Programming for Analytics\nCourse 2: EMSE 4572: Exploratory Data Analysis\n\nChoose from the menu to view the course site for a particular semester or to view the showcase of prior student projects."
+    "text": "This is the course website for “EMSE 4572 / 6572: Exploratory Data Analysis” at the George Washington University. This is the second part of a two-course sequence designed to provide a foundation in programming for data analytics using the R programming language:\n\nCourse 1: EMSE 4571: Intro to Programming for Analytics\nCourse 2: EMSE 4572: Exploratory Data Analysis\n\nChoose from the menu to view the course site for a particular semester or to view the showcase of prior student projects."
+  },
+  {
+    "objectID": "showcase/2020-spring.html",
+    "href": "showcase/2020-spring.html",
+    "title": "Spring 2020 Project Showcase",
+    "section": "",
+    "text": "World War…against COVID-19\n\nby Javier Langarica\n\n\n\n\n\n\nAn Exploration of Diversity & Inclusion in the U.S. Military\n\nby William Stricklett\n\n\n\n\n\n\nExpectations in Air\n\nby Bruna Janikian, Olivia O’Hearn, & Yumna Dahab\n\n\n\n\n\n\nFEMA Disaster Relief\n\nby Derek Ripp, Blake Ripp, & Bugra Kardas\n\n\n\n\n\n\nGender Representation in the Film Industry\n\nby Sarah Cassway, Alexa Solomon, & Caroline Walton\n\n\n\n\n\n\nOPEC vs US: Who controls the narrative of global petroleum market\n\nby Azamat Kulzhanov, Diing Manyang, & Alp Can\n\n\n\n\n\n\nAnalysis of Home Mortgage Disclosure Act Data\n\nby Alyssa Cristobal\n\n\n\n\n\n\nGame Attendance in Major League Baseball\n\nby Saramarie Puzzanghera\n\n\n\n\n\n\nAn Investigation on the Change in Electricity Generation Mix in the US over Time\n\nby William Stein\n\n\n\n\n\n\nVotings Trends in the 2016 Virginia Presidential Election\n\nby Jennifer J. Kim\n\n\n\n\n\n\nWorld Happiness Analysis\n\nby Allison Forsyth, Beth Ellinport, & Emily Aprigliano"
   }
 ]

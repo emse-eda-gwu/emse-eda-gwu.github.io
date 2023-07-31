@@ -1,4 +1,8 @@
-# EMSE 4572 / 6572<br>Exploratory Data Analysis<br>Fall 2023
+---
+title: 'EMSE 4572 / 6572: Exploratory Data Analysis'
+---
+
+<br>
 
 ::: {.grid}
 

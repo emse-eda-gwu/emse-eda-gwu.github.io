@@ -1,9 +1,6 @@
 ---
 title: "Spring 2021 Project Showcase"
-output:
-  html_document:
-    number_sections: false
-    toc: false
+toc: false
 ---
 
 <br>
