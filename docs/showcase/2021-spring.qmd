@@ -15,7 +15,7 @@ toc: false
 #| results: asis
 
 source(here::here('_common.R'))
-df <- get_showcase_df('2021-Spring')
+df <- get_showcase_df('2021-spring')
 build_showcase(df)
 ```
 

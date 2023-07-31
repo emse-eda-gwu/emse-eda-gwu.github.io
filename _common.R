@@ -1,4 +1,5 @@
 library(tidyverse)
+library(glue)
 
 knitr::opts_chunk$set(
     message = FALSE,
