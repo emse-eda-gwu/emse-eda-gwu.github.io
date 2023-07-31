@@ -52,20 +52,20 @@ website:
     - icon: fas fa-bars
       menu:
       - text: About
-        icon: fas fa-info-circle
+        icon: question-circle-fill
         href: about.qmd
       - text: License
-        icon: fas fa-gavel
+        icon: award-fill
         href: LICENSE.qmd
       - text: Contact
-        icon: fas fa-envelope
+        icon: envelope-fill
         href: mailto:jph@gwu.edu
       - text: Source files
-        icon: fab fa-github
+        icon: github
         href: https://github.com/emse-eda-gwu/
   page-footer:
     center:
-      - text: '<a href="LICENSE.html">LICENSE: CC-BY-SA <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a>'
+      - text: '<a href="https://eda.seas.gwu.edu/LICENSE.html">LICENSE: CC-BY-SA <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a>'
 
 format:
   html:
