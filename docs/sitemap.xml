@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eda.seas.gwu.edu/showcase/2020-spring.html</loc>
-    <lastmod>2023-07-31T12:34:30.585Z</lastmod>
+    <loc>https://eda.seas.gwu.edu/LICENSE.html</loc>
+    <lastmod>2023-07-31T12:57:43.533Z</lastmod>
   </url>
   <url>
-    <loc>https://eda.seas.gwu.edu/showcase/2021-spring.html</loc>
-    <lastmod>2023-07-31T12:42:34.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eda.seas.gwu.edu/showcase/2022-fall.html</loc>
-    <lastmod>2023-07-31T12:48:47.849Z</lastmod>
+    <loc>https://eda.seas.gwu.edu/about.html</loc>
+    <lastmod>2023-07-31T12:57:43.805Z</lastmod>
   </url>
   <url>
     <loc>https://eda.seas.gwu.edu/index.html</loc>
-    <lastmod>2023-07-31T12:48:53.356Z</lastmod>
+    <lastmod>2023-07-31T12:57:44.447Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eda.seas.gwu.edu/showcase/2020-spring.html</loc>
+    <lastmod>2023-07-31T12:57:45.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eda.seas.gwu.edu/showcase/2021-spring.html</loc>
+    <lastmod>2023-07-31T12:57:46.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eda.seas.gwu.edu/showcase/2022-fall.html</loc>
+    <lastmod>2023-07-31T12:57:47.822Z</lastmod>
   </url>
 </urlset>
