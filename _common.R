@@ -17,10 +17,10 @@ get_showcase_df <- function(semester) {
     df <- read_csv(here::here('showcase', glue('{semester}.csv'))) %>% 
         mutate(
             img = glue(
-                '<img src="{semester}/thumbnails/{stub}.{img}" width = 100%>'
+                '<img src="/showcase/{semester}/thumbnails/{stub}.{img}" width = 100%>'
             ),
             title = glue(
-                '<h3><a href="../showcase/{semester}/{stub}.html"
+                '<h3><a href="/showcase/{semester}/{stub}.html"
                 target="_blank">{title}</a></h3>
     by {student}'
             ),
