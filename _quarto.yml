@@ -22,7 +22,7 @@ website:
   twitter-card:
     creator: "@johnhelveston"
     site: "@johnhelveston"
-    image: "images/eda_hex_sticker_square.png"
+    image: "images/logo_square.png"
     card-style: summary
   navbar:
     title: ""
