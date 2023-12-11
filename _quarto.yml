@@ -49,6 +49,8 @@ website:
             href: showcase/2021-spring.qmd
           - text: "Fall 2022"
             href: showcase/2022-fall.qmd
+          - text: "Fall 2023"
+            href: showcase/2023-fall.qmd
     right:
     - icon: list
       menu:
