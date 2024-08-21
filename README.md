@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 4572 / 6572: Exploratory Data Analysis <a href='https://github.com/emse-eda-gwu/'><img src='images/logo.png' align="right" height="139"/></a>
+## EMSE 4572 / 6572: Exploratory Data Analysis <a href='https://eda.seas.gwu.edu/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -22,26 +22,6 @@ language](https://www.r-project.org/):
   Analytics](http://p4a.seas.gwu.edu/)
 - Course 2: [EMSE 4572: Exploratory Data
   Analysis](http://eda.seas.gwu.edu/)
-
-### Select Section
-
-Select to view the course site for a particular semester:
-
-- [Spring 2020 (listed as EMSE
-  4197)](http://eda.seas.gwu.edu/2020-Spring/)
-- [Spring 2021 (listed as EMSE
-  4575)](http://eda.seas.gwu.edu/2021-Spring/)
-- [Fall 2022](http://eda.seas.gwu.edu/2022-Fall/)
-- [Fall 2023](http://eda.seas.gwu.edu/2023-Fall/)
-
-### Student Project Showcase
-
-Select to view the showcase of student projects from a previous
-semester:
-
-- [Spring 2020](http://eda.seas.gwu.edu/showcase/2020-spring.html)
-- [Spring 2021](http://eda.seas.gwu.edu/showcase/2021-spring.html)
-- [Fall 2022](http://eda.seas.gwu.edu/showcase/2022-fall.html)
 
 ### Acknowledgments
 
