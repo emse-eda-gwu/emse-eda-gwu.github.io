@@ -2,7 +2,11 @@
 toc: true
 ---
 
-<br>
+```{r}
+#| include: false
+
+source(here::here('_common.R'))
+```
 
 # Spring 2020
 
@@ -11,7 +15,6 @@ toc: true
 ```{r}
 #| results: asis
 
-source(here::here('_common.R'))
 df <- get_showcase_df('2020-Spring')
 build_showcase(df)
 ```
@@ -25,7 +28,6 @@ build_showcase(df)
 ```{r}
 #| results: asis
 
-source(here::here('_common.R'))
 df <- get_showcase_df('2021-Spring')
 build_showcase(df)
 ```
@@ -39,7 +41,6 @@ build_showcase(df)
 ```{r}
 #| results: asis
 
-source(here::here('_common.R'))
 df <- get_showcase_df('2022-Fall')
 build_showcase(df)
 ```
@@ -53,7 +54,6 @@ build_showcase(df)
 ```{r}
 #| results: asis
 
-source(here::here('_common.R'))
 df <- get_showcase_df('2023-Fall')
 build_showcase(df)
 ```
