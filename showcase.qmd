@@ -60,3 +60,15 @@ build_showcase(df)
 
 :::
 
+# Fall 2024
+
+::: {.grid}
+
+```{r}
+#| results: asis
+
+df <- get_showcase_df('2024-Fall')
+build_showcase(df)
+```
+
+:::
